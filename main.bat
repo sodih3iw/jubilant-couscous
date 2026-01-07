@@ -1,6 +1,4 @@
 @echo off
-setlocal enabledelayedexpansion
-
 set i=11
 
 :001
